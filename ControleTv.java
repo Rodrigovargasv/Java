@@ -15,7 +15,7 @@ public class ControleTv {
     void deligarTv() {
         ligadoDeligado = false;
         System.out.println("--------------------------------\n" +
-                "Deslingando Tv...\n" +
+                "Desligando Tv...\n" +
                 "--------------------------------");
     }
 
